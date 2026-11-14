@@ -1,170 +1,199 @@
- 
-<div align="center">
-
-# Hi, I'm Hashir Ahmed Buriro 👋
-
-### Software Engineer | Python Developer | Data Analytics | AI & Automation
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Software+Engineer;Python+%26+Backend+Development;Data+Analytics+%26+Power+BI;AI+%26+Machine+Learning;Software+Quality+Assurance" alt="Typing SVG" />
-
-<p>
-  <a href="https://github.com/Hashir2022">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://linkedin.com/in/engr-hashir-ahmed-buriro/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Hashir2022&style=for-the-badge&color=blue" alt="Profile Views" />
+<!-- ===================== HEADER ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:00C9A7&height=220&section=header&text=Hashir%20Ahmed%20Buriro&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Data%20Analyst%20%7C%20AI%2FML%20%7C%20SQA&descSize=18&descAlignY=60" alt="Header"/>
 </p>
 
-</div>
+<p align="center">
+  <a href="https://github.com/Hashir2022">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=720&lines=Software+Engineering+Graduate+%F0%9F%8E%93;Python+%7C+Data+Analysis+%7C+Power+BI;Machine+Learning+%26+AI+Enthusiast+%F0%9F%A4%96;Software+Quality+Assurance+%F0%9F%A7%AA;Turning+data+and+ideas+into+real+solutions+%F0%9F%9A%80" alt="Typing animation"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/📍_Karachi,_Pakistan-0A66C2?style=flat-square" alt="Location"/>
+  <img src="https://img.shields.io/badge/🎓_BE_Software_Engineering-KIET-00C9A7?style=flat-square" alt="Education"/>
+  <img src="https://img.shields.io/badge/💼_Director-UQ_Consultants-555?style=flat-square" alt="Role"/>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/engr-hashir-ahmed-buriro/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:buriro.hashir@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.youtube.com/@hashirs_photography2019">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+  <a href="https://www.instagram.com/hashirs_photography/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a Software Engineer and PEC Registered Engineer passionate about building practical software solutions, exploring emerging technologies, and solving real-world problems through technology.
+Software Engineering graduate skilled in **Python, Data Analysis, SQL, Power BI, Software Testing, Web Development and AI/ML**. I have hands-on experience developing solutions, analyzing data and managing databases, backed by internships in the aerospace and software industries and experience running a consultancy as Director.
 
-My interests include Python development, data analytics, artificial intelligence, machine learning, backend development, and software quality assurance. I enjoy learning new tools, developing projects, and continuously improving my technical skills.
+I enjoy turning data and ideas into practical, working solutions, from machine learning models and dashboards to well-tested web applications.
 
-- 🎓 **Education:** BE Software Engineering
-- 💻 **Primary Language:** Python
-- 📊 **Data & BI:** SQL, Power BI, Pandas, NumPy
-- 🤖 **Interests:** Generative AI, Agentic AI & Machine Learning
-- 🧪 **Quality Assurance:** Manual Testing, Test Cases & Automation
-- 🌱 **Currently Learning:** Backend Development, AI Applications & Automation
+```python
+class HashirAhmed:
+    role     = "Software Engineer | Data Analyst | SQA"
+    location = "Karachi, Pakistan"
+    skills   = ["Python", "SQL", "Power BI", "Machine Learning", "Selenium", "Web Development"]
+    learning = ["Deep Learning", "Data Storytelling", "Test Automation"]
+    open_to  = ["Software Testing", "Data Analysis", "AI/ML", "Collaborations"]
+```
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
-### Programming & Development
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,pandas,numpy,sklearn,mysql,powerbi,selenium,git,github,vscode,arduino&perline=11" alt="Tech stack"/>
 </p>
 
-### Data Analytics & Visualization
-<p>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
-</p>
+<div align="center">
 
-### AI, Machine Learning & Tools
-<p>
-  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=orange" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
+| Area | Skills |
+|:-----|:-------|
+| 🐍 **Python & Data** | Programming, OOP, Pandas, NumPy, Matplotlib, Data Analysis, AI/ML |
+| 🧪 **Quality Assurance** | Manual Testing, Test Cases, Test Planning, Selenium, Bug Reporting |
+| 📊 **Business Intelligence** | Power BI, Power Query, DAX, Data Modeling, KPIs |
+| 🌐 **Networking** | Routing & Switching, VLAN, TCP/IP, OSI Model, Subnetting, DHCP, NAT |
+| 🖥️ **IT Support** | Windows Installation, Software Configuration, Troubleshooting |
+| 🧰 **Tools** | VS Code, Google Colab, Jupyter, Streamlit, Cisco Packet Tracer, Proteus |
 
-### Software Quality Assurance
-<p>
-  <img src="https://img.shields.io/badge/Manual%20Testing-2E8B57?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
-  <img src="https://img.shields.io/badge/Software%20Testing-00599C?style=for-the-badge" />
-</p>
+</div>
+
+---
+
+## 💼 Experience
+
+<details open>
+<summary><b>🧪 Software Quality Assurance (SQA) Intern (Remote) · Appverse Technologies Pvt Ltd</b> &nbsp;|&nbsp; Mar 2026 – May 2026</summary>
+<br/>
+
+- Performed manual testing of web applications to identify functional issues and usability defects
+- Prepared and executed test cases to validate application functionality and user workflows
+- Identified, documented and reported bugs to support the development and debugging process
+- Gained practical experience in testing methodologies, QA practices and defect reporting
+</details>
+
+<details>
+<summary><b>✈️ Trainee Software Engineer · Pakistan Aeronautical Complex (PAC) Kamra</b> &nbsp;|&nbsp; Sep 2023 – Oct 2023</summary>
+<br/>
+
+- Completed a 3-week Software Engineering internship
+- Contributed to coding, debugging and software testing activities
+- Gained exposure to software development practices in the aerospace industry
+</details>
+
+<details>
+<summary><b>🏢 Director · UQ Consultants</b> &nbsp;|&nbsp; Jan 2022 – Present</summary>
+<br/>
+
+- Managing consultancy operations, clients and visa services
+- Handling study and work visa documentation and application processing
+- Developing business strategies and coordinating team operations
+- Maintaining professional client relationships and service delivery
+</details>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 1. SynthFocus — AI Product Validation Platform
-An AI-powered autonomous focus group platform designed to validate startup ideas through multiple perspectives, including business, Gen-Z user experience, and legal considerations.
-
-**Tech:** Python, FastAPI, AI, Next.js
-
-[🔗 View Project](https://github.com/Hashir2022/Synth-Focus)
-
-### 2. Supply Chain Management System with AI Chatbot
-A web-based supply chain management solution featuring inventory, warehouse, manufacturer management, an AI chatbot, and sales prediction.
-
-**Tech:** HTML, CSS, JavaScript, PHP, MySQL, XGBoost
-
-[🔗 View Project](https://github.com/Hashir2022/Supply-Chain-Management-with-AI-Chatbot-Web-Application-Final-Year-Project)
-
-### 3. Student Performance Prediction
-A machine learning project focused on analyzing student-related data and predicting academic performance using machine learning techniques.
-
-**Tech:** Python, Pandas, NumPy, Scikit-learn, Machine Learning
-
-[🔗 View Project](https://github.com/Hashir2022/student-performance-prediction-ml)
-
-### 4. Sales Performance Business Intelligence Dashboard
-An interactive Power BI dashboard designed to analyze sales performance and present business insights through data visualization.
-
-**Tech:** Power BI, Power Query, Data Analytics
-
-[🔗 View Project](https://github.com/Hashir2022/Sales-Performance-Business-Intelligence-Dashboard)
-
-### 5. School Management System — Networking Project
-A computer networking project focused on school network design and networking fundamentals.
-
-**Tech:** Computer Networks, CCN
-
-[🔗 View Project](https://github.com/Hashir2022/School-Management-System-Networking-project)
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hashir2022&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hashir2022&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=Hashir2022&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
----
-
-## 🐍 Contribution Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Hashir2022/Hashir2022/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
-
-</div>
-
----
-
-## 🎯 Current Focus
-
-- Building practical Python and backend applications.
-- Improving skills in data analytics and business intelligence.
-- Exploring Generative AI and Agentic AI applications.
-- Strengthening software testing and automation practices.
-- Developing projects that solve real-world problems.
-
----
-
-## 🤝 Connect With Me
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 Supply Chain Management with AI Chatbot</h3>
+      <i>Final Year Project · 2024–2025</i><br/><br/>
+      AI-powered web application for procurement, inventory and distribution management with an integrated AI chatbot, supplier management, real-time <b>WebSocket</b> communication and <b>XGBoost</b> sales prediction.
+    </td>
+    <td width="50%" valign="top">
+      <h3>📈 ML &amp; DL Income Classification</h3>
+      <i>NAVTTC · 2026</i><br/><br/>
+      Income classification model built on <b>48,842 records</b>. Five ML/DL algorithms were implemented and compared, with <b>Random Forest reaching 83.90% accuracy</b>.<br/>
+      <code>Python</code> <code>Pandas</code> <code>NumPy</code> <code>Scikit-learn</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎓 Student Performance Prediction</h3>
+      <i>Machine Learning · 2025</i><br/><br/>
+      ML model predicting high or low student performance from academic and demographic data, covering preprocessing, EDA, feature engineering, evaluation and <b>Streamlit</b> deployment.
+    </td>
+    <td width="50%" valign="top">
+      <h3>📊 Sales Performance BI Dashboard</h3>
+      <i>Power BI · 2026</i><br/><br/>
+      Interactive dashboard analyzing sales, revenue, profit and trends, built with <b>Power Query</b>, <b>DAX</b> and interactive visuals for data-driven decisions.
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>🚗 <a href="https://github.com/Hashir2022/Car-Parking-System">Car Parking System</a></h3>
+      Arduino Uno based smart parking prototype using an ultrasonic sensor, IR sensor, servo motor and object counter to optimize parking space usage.
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <a href="https://linkedin.com/in/engr-hashir-ahmed-buriro/">
-    <img src="https://img.shields.io/badge/LinkedIn-Hashir%20Ahmed%20Buriro-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://github.com/Hashir2022">
-    <img src="https://img.shields.io/badge/GitHub-Hashir2022-181717?style=for-the-badge&logo=github" />
+  <a href="https://github.com/Hashir2022?tab=repositories">
+    <img src="https://img.shields.io/badge/View_all_repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
   </a>
 </p>
 
-<div align="center">
+---
 
-### 💡 "Building skills, creating solutions, and growing through technology."
+## 🎓 Education
 
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+- **Bachelor of Engineering in Software Engineering**, Karachi Institute of Economics and Technology (KIET), 2021 – 2025
+- **Intermediate (Pre-Engineering)**, BISE Larkana, 2019 – 2021
 
-</div>
+<details>
+<summary><b>📜 Certifications & Training</b></summary>
+<br/>
+
+- 🤖 **NAVTTC Machine Learning Training Program** (Feb 2026 – May 2026): Python, data analysis, ML algorithms, model training and evaluation
+- 📊 **Microsoft Power BI Training** (UITS | PSEB | Riphah International University, 2026): Power Query, DAX, data modeling, KPIs, Actual vs. Budget analysis, forecasting and MTD/QTD/YTD reporting
+- 🛠️ **Google: Technical Support Fundamentals**
+- 📈 **Udemy: Web Analytics with Similarweb, from Basic to PRO**
+- 🗣️ **Soft Skill Training Certificate**
+</details>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Hashir2022&show_icons=true&theme=transparent&title_color=0A66C2&icon_color=00C9A7&text_color=8b949e&hide_border=true" alt="GitHub Stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hashir2022&layout=compact&theme=transparent&title_color=0A66C2&text_color=8b949e&hide_border=true" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Hashir2022&theme=transparent&hide_border=true&ring=0A66C2&fire=00C9A7&currStreakLabel=0A66C2&sideLabels=8b949e&currStreakNum=8b949e&sideNums=8b949e&dates=8b949e" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hashir2022&bg_color=00000000&color=0A66C2&line=0A66C2&point=00C9A7&area=true&area_color=0A66C2&hide_border=true" alt="Contribution Graph"/>
+</p>
+
+---
+
+## 📸 Beyond Code
+
+Outside of engineering, I'm passionate about **photography**. It keeps me creative and sharpens my eye for detail. See my work on [YouTube](https://www.youtube.com/@hashirs_photography2019) and [Instagram](https://www.instagram.com/hashirs_photography/).
+
+---
+
+## 🤝 Let's Connect
+
+I'm open to **opportunities in software testing, data analysis and AI/ML**, as well as collaborations and conversations with fellow engineers. Reach out on [LinkedIn](https://www.linkedin.com/in/engr-hashir-ahmed-buriro/) or at **buriro.hashir@gmail.com**.
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Hashir2022&label=Profile+views&color=0A66C2&style=flat-square" alt="Profile views"/>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:00C9A7&height=100&section=footer" width="100%" alt="Footer"/>
